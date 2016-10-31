@@ -1,4 +1,5 @@
 * [Custom Post Type Templates from Plugin Folder? - WordPress Development Stack Exchange](http://wordpress.stackexchange.com/questions/17385/custom-post-type-templates-from-plugin-folder)
+* [Getting Started with WordPress Plugin Development: The Ultimate Guide - WPMU DEV](https://premium.wpmudev.org/blog/wordpress-plugin-development-guide/?utm_expid=3606929-90.6a_uo883STWy99lnGf8x1g.0&utm_referrer=https%3A%2F%2Fwww.google.com%2F)
 
 ### Output of get_fields( $post->ID )
 ```
