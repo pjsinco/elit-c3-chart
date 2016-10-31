@@ -1,0 +1,19 @@
+{
+  "name": "elit-c3-chart",
+  "version": "0.1.0",
+  "description": "WordPress Plugin to incorporate C3 charts in posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjsinco/elit-c3-chart.git"
+  },
+  "author": "Patrick Sinco <psinco@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjsinco/elit-c3-chart/issues"
+  },
+  "homepage": "https://github.com/pjsinco/elit-c3-chart#readme"
+}
