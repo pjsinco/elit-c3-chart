@@ -3,6 +3,11 @@
 global $post;
 
 $fields = get_fields( $post->ID );
-echo '<pre>'; var_dump($fields); echo '</pre>'; die();
 
+
+?>
+
+<div class="chart">
+  <?php echo '<pre>'; var_dump($fields); echo '</pre>'; die(); ?>
+</div>
 
